@@ -22,7 +22,7 @@
             "Prediction": {
                 "Enabled": false,
                 "Mode": "Ideal",
-                "PredictionX": 5,
+                "PredictionX": 7,
                 "PredictionY": 8
             }
         },
